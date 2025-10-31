@@ -38,6 +38,7 @@ Version      : 1.0
 * ----------------------------------------------------------------------------------------
 */
 body {
+	background-color: #0b569a !important;
 color:#888;
 font-family: 'Mulish', sans-serif;
 font-size: 16px;
@@ -113,7 +114,7 @@ span{font-family: 'Mulish', sans-serif;}
   margin: 0 0 10px 0;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: #2eca7f;
+  color: #fef200;
 }
 
 .section-title h2::after {
@@ -121,7 +122,7 @@ span{font-family: 'Mulish', sans-serif;}
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #2eca7f;
+  background: #fef200;
   margin: 4px 10px;
 }
 .section-title p {
@@ -136,7 +137,7 @@ span{font-family: 'Mulish', sans-serif;}
 @media only screen and (max-width:480px){
 .section-title p {width:100%;}
 }
-.section-title p span{color: #2eca7f;}
+.section-title p span{color: #fef200;}
 h1.section-title-white{color:#fff;}
 p.section-title-white{color:#fff;}
 .section-title-two{margin-bottom:60px;}
@@ -145,11 +146,11 @@ p.section-title-white{color:#fff;}
 	font-size: 50px;
 	text-align: center;
 }
-.section-title-two h2 span{color: #2eca7f;}
+.section-title-two h2 span{color: #fef200;}
 /*END SECTION TITLE DESIGN*/
 /*START SCROLL TO TOP*/
 .topcontrol {
-	background: #2eca7f;
+	background: #fef200;
 	border-radius: 30px;
 	bottom: 5px;
 	-webkit-box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.2);
@@ -331,10 +332,10 @@ p.section-title-white{color:#fff;}
 }
 /*BTN START*/
 .btn_one {
-	background: #2eca7f;
+	background: #fef200;
 	font-size: 15px;
 	padding: 10px 30px;
-	color:#fff;
+	color:black;
   display: inline-block;
   border-radius:100px;
   font-weight: 700;
@@ -893,7 +894,7 @@ position:relative;
  @media only screen and (max-width:960px){
 .home_content h1 {font-size: 60px;line-height:70px;}
  }
-.home_content h1 span{color:#2eca7f;}
+.home_content h1 span{color:#fef200;}
 .home_content p {
 	margin-bottom: 40px;
 	font-weight: 400;
@@ -1064,9 +1065,9 @@ line-height:70px;
 	line-height: 54px;
 	font-size: 44px;
 }
-.ab_content h2 span{color: #2eca7f;}
+.ab_content h2 span{color: #fef200;}
 .ab_content h2 u {
-	color: #2eca7f;
+	color: #fef200;
 }
 .ab_content p{margin-bottom: 30px;}
 .ab_content p{margin-bottom: 30px;}
@@ -2103,7 +2104,7 @@ margin:30px 0;
 .cp_content h4 {
 	font-weight: 700;
 	font-size: 18px;
-	color: #2eca7f;
+	color: #fef200;
 	margin-bottom: 10px;
 }
 .cp_content h2 {
@@ -2111,7 +2112,7 @@ margin:30px 0;
 	font-size: 48px;
 	margin-bottom: 20px;
 }
-.cp_content h2 span{color:#2eca7f;}
+.cp_content h2 span{color:#fef200;}
 .cp_content p{margin-bottom: 20px;}
 .cp_content ul{margin-bottom: 40px;}
 .cp_content ul li {
@@ -3175,7 +3176,7 @@ text-decoration: underline;
 	width: 60%;
 	margin: auto;
 	margin-bottom: 60px;
-	color: #2eca7f;
+	color: #fef200;
 }
 @media only screen and (max-width:480px){
 .partner_title h3 {font-size:18px;width:100%}
@@ -3849,9 +3850,9 @@ box-shadow:none;
 border: 2px solid #2eca7f!important;
 }
 .subscribe__btn {
-	background-color: #2eca7f;
+	background-color: #fef200;
 	border-radius:100px;
-	color: #fff;
+	color: black;
 	cursor: pointer;
 	display: block;
 	font-size: 22px;
