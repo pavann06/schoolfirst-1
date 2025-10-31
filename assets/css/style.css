@@ -635,7 +635,7 @@ color:#fff;
 #main-menu ul li > a:hover,
 #main-menu ul li > a:focus{
 
-	color: #2eca7f;
+	color: #0b569a;
 }
 #navigation #main-menu ul li a:hover,
 #navigation #main-menu ul li a:focus,
@@ -644,7 +644,7 @@ color:#fff;
 }
 #navigation.navbar-fixed #main-menu ul li a:hover,
 #navigation.navbar-fixed #main-menu ul li a:focus{
-	color: #2eca7f;
+	color: #0b569a;
 }
 
 .slicknav_menu {
@@ -2632,7 +2632,7 @@ width: 100%;
 }
 .single_agent_content h5 {
 	border-bottom: 1px solid #eee;
-	color: #2eca7f;
+	color: #0b569a;
 	margin-bottom: 20px;
 	overflow: hidden;
 	padding-bottom: 10px;
@@ -2650,7 +2650,7 @@ overflow: hidden;
 	font-size: 18px;
 	font-weight: 600;
 }
-.single_agent_content i{margin-right:10px;color:#2eca7f;}
+.single_agent_content i{margin-right:10px;color:#0b569a;}
 
 .agent_social ul li{float: left;}
 .agent_social ul li a{
@@ -2659,7 +2659,7 @@ margin-right: 5px;
 .agent_social ul li a i {
   margin-right: 0;
 }
-.agent_social ul li a:hover{background:#2eca7f;color:#fff;}
+.agent_social ul li a:hover{background:#0b569a;color:#fff;}
 /*END SINGLE TEAM DETAILS*/
 /*
 * ----------------------------------------------------------------------------------------
